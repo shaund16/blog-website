@@ -20,7 +20,7 @@ const SinglePost = () => {
           <span className='singlePostAuthor'>Author: <strong>Shaun</strong></span>
           <span className='singlePostDate'>1 hour ago</span>
         </div>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt at tempore ipsum aliquam sapiente asperiores distinctio ipsa vel fugiat neque molestias necessitatibus ratione, vitae corporis quae repellendus officiis ex veniam.
+        <p className='singlePostDesc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt at tempore ipsum aliquam sapiente asperiores distinctio ipsa vel fugiat neque molestias necessitatibus ratione, vitae corporis quae repellendus officiis ex veniam.
         Dicta doloribus asperiores quas eius provident laboriosam, magnam, nostrum maiores, tempora similique reprehenderit aspernatur quidem. Debitis numquam aspernatur, dolorem aliquid similique, odio distinctio accusamus et nihil ullam, harum fugiat earum?
         Incidunt expedita similique, accusantium voluptatem sit, mollitia aliquam eligendi, earum recusandae a aperiam praesentium doloribus distinctio repellendus iure consequatur itaque dolorem deserunt exercitationem temporibus odit. Nisi architecto corrupti molestias nobis.
         Suscipit quae possimus deleniti officia fugiat distinctio sequi, nulla sit minus ipsum porro incidunt dolores molestias cum iste. Consequatur, perspiciatis ipsum. Cum laborum repellendus, ipsam tenetur alias quam beatae excepturi.
